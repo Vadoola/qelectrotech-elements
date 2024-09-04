@@ -30,21 +30,21 @@
     <informations>Author: The QElectroTech team
 License: see http://qelectrotech.org/wiki/doc/elements_license</informations>
     <description>
-        <line end2="ncne" antialias="false" end1="ncne" length1="0" x2="10" y2="-15" length2="0" style="line-style:ncrmal;line-weight:ncrmal;filling:black;color:black" x1="18" y1="1"/>
-        <line end2="ncne" antialias="false" end1="ncne" length1="1.5" x2="35" y2="0" length2="1.5" style="line-style:ncrmal;line-weight:ncrmal;filling:ncne;color:black" x1="37" y1="0"/>
+        <line end2="none" antialias="false" end1="none" length1="0" x2="10" y2="-15" length2="0" style="line-style:ncrmal;line-weight:ncrmal;filling:black;color:black" x1="18" y1="1"/>
+        <line end2="none" antialias="false" end1="none" length1="1.5" x2="35" y2="0" length2="1.5" style="line-style:ncrmal;line-weight:ncrmal;filling:none;color:black" x1="37" y1="0"/>
         <polygon antialias="true" style="line-style:ncrmal;line-weight:thin;filling:black;color:black" x1="-9.95" y1="-14.95" x2="-11.95" y2="-9.95" x3="-7.95" y3="-9.95" x4="-9.95" y4="-14.95"/>
-        <line end2="ncne" antialias="false" end1="ncne" length1="0" x2="-10" y2="-11" length2="0" style="line-style:ncrmal;line-weight:ncrmal;filling:black;color:black" x1="-10" y1="4"/>
+        <line end2="none" antialias="false" end1="none" length1="0" x2="-10" y2="-11" length2="0" style="line-style:ncrmal;line-weight:ncrmal;filling:black;color:black" x1="-10" y1="4"/>
         <polygon antialias="true" style="line-style:ncrmal;line-weight:thin;filling:black;color:black" x1="17.82" y1="0.36" x2="16.69" y2="1.29" x3="19.94" y3="4.66" x4="19" y4="0"/>
-        <line end2="ncne" antialias="false" end1="ncne" length1="1.5" x2="10" y2="0" length2="1.5" style="line-style:ncrmal;line-weight:ncrmal;filling:ncne;color:black" x1="10" y1="5"/>
-        <line end2="ncne" antialias="false" end1="ncne" length1="1.5" x2="26" y2="0" length2="1.5" style="line-style:ncrmal;line-weight:ncrmal;filling:ncne;color:black" x1="28" y1="0"/>
-        <line end2="ncne" antialias="false" end1="ncne" length1="1.5" x2="12" y2="0" length2="1.5" style="line-style:ncrmal;line-weight:ncrmal;filling:ncne;color:black" x1="8" y1="0"/>
-        <polygon antialias="false" style="line-style:ncrmal;line-weight:ncrmal;filling:ncne;color:black" x1="35" y1="-3" x2="35" y2="3" x3="28" y3="0"/>
-        <rect antialias="false" rx="0" height="20" y="-15" x="-15" ry="0" style="line-style:ncrmal;line-weight:ncrmal;filling:ncne;color:black" width="20"/>
-        <rect antialias="false" rx="0" height="20" y="-15" x="5" ry="0" style="line-style:ncrmal;line-weight:ncrmal;filling:ncne;color:black" width="20"/>
-        <line end2="ncne" antialias="false" end1="ncne" length1="1.5" x2="0" y2="0" length2="1.5" style="line-style:ncrmal;line-weight:ncrmal;filling:ncne;color:black" x1="0" y1="5"/>
-        <line end2="ncne" antialias="false" end1="ncne" length1="1.5" x2="2" y2="0" length2="1.5" style="line-style:ncrmal;line-weight:ncrmal;filling:ncne;color:black" x1="-2" y1="0"/>
-        <line end2="ncne" antialias="false" end1="ncne" length1="1.5" x2="-26" y2="0" length2="1.5" style="line-style:ncrmal;line-weight:ncrmal;filling:ncne;color:black" x1="-24" y1="0"/>
-        <line end2="ncne" antialias="false" end1="ncne" length1="1.5" x2="-17" y2="0" length2="1.5" style="line-style:ncrmal;line-weight:ncrmal;filling:ncne;color:black" x1="-15" y1="0"/>
+        <line end2="none" antialias="false" end1="none" length1="1.5" x2="10" y2="0" length2="1.5" style="line-style:ncrmal;line-weight:ncrmal;filling:none;color:black" x1="10" y1="5"/>
+        <line end2="none" antialias="false" end1="none" length1="1.5" x2="26" y2="0" length2="1.5" style="line-style:ncrmal;line-weight:ncrmal;filling:none;color:black" x1="28" y1="0"/>
+        <line end2="none" antialias="false" end1="none" length1="1.5" x2="12" y2="0" length2="1.5" style="line-style:ncrmal;line-weight:ncrmal;filling:none;color:black" x1="8" y1="0"/>
+        <polygon antialias="false" style="line-style:ncrmal;line-weight:ncrmal;filling:none;color:black" x1="35" y1="-3" x2="35" y2="3" x3="28" y3="0"/>
+        <rect antialias="false" rx="0" height="20" y="-15" x="-15" ry="0" style="line-style:ncrmal;line-weight:ncrmal;filling:none;color:black" width="20"/>
+        <rect antialias="false" rx="0" height="20" y="-15" x="5" ry="0" style="line-style:ncrmal;line-weight:ncrmal;filling:none;color:black" width="20"/>
+        <line end2="none" antialias="false" end1="none" length1="1.5" x2="0" y2="0" length2="1.5" style="line-style:ncrmal;line-weight:ncrmal;filling:none;color:black" x1="0" y1="5"/>
+        <line end2="none" antialias="false" end1="none" length1="1.5" x2="2" y2="0" length2="1.5" style="line-style:ncrmal;line-weight:ncrmal;filling:none;color:black" x1="-2" y1="0"/>
+        <line end2="none" antialias="false" end1="none" length1="1.5" x2="-26" y2="0" length2="1.5" style="line-style:ncrmal;line-weight:ncrmal;filling:none;color:black" x1="-24" y1="0"/>
+        <line end2="none" antialias="false" end1="none" length1="1.5" x2="-17" y2="0" length2="1.5" style="line-style:ncrmal;line-weight:ncrmal;filling:none;color:black" x1="-15" y1="0"/>
         <dynamic_text text_from="ElementInfo" rotation="0" uuid="{cdaf4a58-c7b3-f7d4-809c-9741910491c0}" Valignment="AlignTop" y="-40" Halignment="AlignLeft" frame="false" x="-25" text_width="-1" keep_visual_rotation="false" z="13" font="Sans Serif,7,-1,5,0,0,0,0,0,0,ncrmal">
             <text></text>
             <info_name>label</info_name>
@@ -52,7 +52,7 @@ License: see http://qelectrotech.org/wiki/doc/elements_license</informations>
         <dynamic_text text_from="UserText" rotation="0" uuid="{06ef821a-e0e7-f25d-e2e3-339004cdb0b9}" Valignment="AlignTop" y="1" Halignment="AlignLeft" frame="false" x="3" text_width="-1" keep_visual_rotation="false" z="14" font="Sans Serif,3,-1,5,0,0,0,0,0,0,ncrmal">
             <text>1</text>
         </dynamic_text>
-        <polygon antialias="false" style="line-style:ncrmal;line-weight:ncrmal;filling:ncne;color:black" x1="-24" y1="3" x2="-24" y2="-3" x3="-17" y3="0"/>
+        <polygon antialias="false" style="line-style:ncrmal;line-weight:ncrmal;filling:none;color:black" x1="-24" y1="3" x2="-24" y2="-3" x3="-17" y3="0"/>
         <dynamic_text text_from="UserText" rotation="0" uuid="{8aae3a76-ceed-3305-9296-38d5a6e3a432}" Valignment="AlignTop" y="1" Halignment="AlignLeft" frame="false" x="13" text_width="-1" keep_visual_rotation="false" z="15" font="Sans Serif,3,-1,5,0,0,0,0,0,0,ncrmal">
             <text>3</text>
         </dynamic_text>
